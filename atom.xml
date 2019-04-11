@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-09T11:50:52.854Z</updated>
+  <updated>2019-04-11T03:32:11.200Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/04/09/hello-world/"/>
-    <id>http://yoursite.com/2019/04/09/hello-world/</id>
-    <published>2019-04-09T11:50:52.854Z</published>
-    <updated>2019-04-09T11:50:52.854Z</updated>
+    <title>无人喝彩</title>
+    <link href="http://yoursite.com/2019/04/11/%E6%97%A0%E4%BA%BA%E5%96%9D%E5%BD%A9/"/>
+    <id>http://yoursite.com/2019/04/11/无人喝彩/</id>
+    <published>2019-04-11T03:20:40.000Z</published>
+    <updated>2019-04-11T03:32:11.200Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=343015&auto=1&height=66"></iframe><br>洞察生命</p><p>如痛楚、如旷野<br>如时代中的回音</p><p>虽然回音中并无旋律</p><p>亲吻刀刃</p><p>如自由 如音乐<br>如宿命中的蜕变</p><p>虽然蜕变中无人喝彩</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>聚与散</title>
+    <link href="http://yoursite.com/2019/04/11/%E8%81%9A%E4%B8%8E%E6%95%A3/"/>
+    <id>http://yoursite.com/2019/04/11/聚与散/</id>
+    <published>2019-04-11T03:17:54.000Z</published>
+    <updated>2019-04-11T03:18:38.288Z</updated>
+    
+    <content type="html"><![CDATA[<p>他注定是个低调的大侠，所以什么都没写!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;他注定是个低调的大侠，所以什么都没写!&lt;/p&gt;
+
       
     
     </summary>
