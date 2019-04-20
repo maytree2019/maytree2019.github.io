@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-20T06:00:52.863Z</updated>
+  <updated>2019-04-20T12:48:59.458Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ntsd</title>
-    <link href="http://yoursite.com/2019/04/19/ntsd/"/>
-    <id>http://yoursite.com/2019/04/19/ntsd/</id>
-    <published>2019-04-19T13:53:11.000Z</published>
-    <updated>2019-04-20T06:00:52.863Z</updated>
+    <title>沁园春·长沙</title>
+    <link href="http://yoursite.com/2019/04/20/%E6%B2%81%E5%9B%AD%E6%98%A5%C2%B7%E9%95%BF%E6%B2%99/"/>
+    <id>http://yoursite.com/2019/04/20/沁园春·长沙/</id>
+    <published>2019-04-20T12:44:54.000Z</published>
+    <updated>2019-04-20T12:48:59.458Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="/2019/04/19/ntsd/DSC_0218.jpg" alt="D90"></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>沁园春·长沙<br>近现代：毛泽东</p><p>独立寒秋，湘江北去，橘子洲头。<br>看万山红遍，层林尽染；漫江碧透，百舸争流。<br>鹰击长空，鱼翔浅底，万类霜天竞自由。<br>怅寥廓，问苍茫大地，谁主沉浮？<br>携来百侣曾游，忆往昔峥嵘岁月稠。<br>恰同学少年，风华正茂；书生意气，挥斥方遒。<br>指点江山，激扬文字，粪土当年万户侯。<br>曾记否，到中流击水，浪遏飞舟？</p>]]></content>
     
     <summary type="html">
     
@@ -34,6 +34,54 @@
     
     </summary>
     
+    
+      <category term="毛泽东" scheme="http://yoursite.com/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>将进酒</title>
+    <link href="http://yoursite.com/2019/04/20/%E5%B0%86%E8%BF%9B%E9%85%92/"/>
+    <id>http://yoursite.com/2019/04/20/将进酒/</id>
+    <published>2019-04-20T12:40:36.000Z</published>
+    <updated>2019-04-20T12:49:23.398Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>将进酒<br>唐代：李白</p><p>君不见，黄河之水天上来，奔流到海不复回。<br>君不见，高堂明镜悲白发，朝如青丝暮成雪。<br>人生得意须尽欢，莫使金樽空对月。<br>天生我材必有用，千金散尽还复来。<br>烹羊宰牛且为乐，会须一饮三百杯。<br>岑夫子，丹丘生，将进酒，杯莫停。<br>与君歌一曲，请君为我倾耳听。(倾耳听 一作：侧耳听)<br>钟鼓馔玉不足贵，但愿长醉不复醒。(不足贵 一作：何足贵；不复醒 一作：不愿醒/不用醒)<br>古来圣贤皆寂寞，惟有饮者留其名。(古来 一作：自古；惟 通：唯)<br>陈王昔时宴平乐，斗酒十千恣欢谑。<br>主人何为言少钱，径须沽取对君酌。<br>五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="李白" scheme="http://yoursite.com/tags/%E6%9D%8E%E7%99%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2019/04/19/test/"/>
+    <id>http://yoursite.com/2019/04/19/test/</id>
+    <published>2019-04-19T13:53:11.000Z</published>
+    <updated>2019-04-20T12:51:12.041Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="/2019/04/19/test/DSC_0218.jpg" alt="D90"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="D90 35F2D" scheme="http://yoursite.com/tags/D90-35F2D/"/>
     
   </entry>
   
@@ -42,9 +90,9 @@
     <link href="http://yoursite.com/2019/04/19/%E6%B3%95%E5%8D%8E%E7%BB%8F/"/>
     <id>http://yoursite.com/2019/04/19/法华经/</id>
     <published>2019-04-19T03:50:03.000Z</published>
-    <updated>2019-04-19T14:01:47.028Z</updated>
+    <updated>2019-04-20T12:49:58.084Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>渡一口气<br>    <div id="aplayer-upogzAfP" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1346093202" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>渡一口气<br>    <div id="aplayer-KlHLZffn" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1346093202" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"></div></p>]]></content>
     
     <summary type="html">
     
@@ -56,6 +104,8 @@
     </summary>
     
     
+      <category term="超渡" scheme="http://yoursite.com/tags/%E8%B6%85%E6%B8%A1/"/>
+    
   </entry>
   
   <entry>
@@ -63,7 +113,7 @@
     <link href="http://yoursite.com/2019/04/18/%E5%B1%B1%E6%A1%83%E7%BA%A2/"/>
     <id>http://yoursite.com/2019/04/18/山桃红/</id>
     <published>2019-04-18T03:02:18.000Z</published>
-    <updated>2019-04-18T03:03:42.401Z</updated>
+    <updated>2019-04-20T12:48:13.187Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=358419&auto=0&height=66"></iframe><p>山桃红(演唱版)<br>歌手：皇家曲社 昆曲六人组</p><p>所属专辑：游园惊梦</p><p>则为你如花美眷<br>似水流年<br>是答儿闲寻遍<br>在幽闺自怜<br>转过这芍药栏前<br>紧靠着湖山石边<br>和你把领扣松 衣带宽<br>袖梢儿揾着牙儿苫也<br>则待你忍耐温存一晌眠<br>是那处曾相见<br>相看俨然<br>早难道这好处相逢无一言</p>]]></content>
     
@@ -76,6 +126,8 @@
     
     </summary>
     
+    
+      <category term="昆曲 皇家曲社 昆曲六人组" scheme="http://yoursite.com/tags/%E6%98%86%E6%9B%B2-%E7%9A%87%E5%AE%B6%E6%9B%B2%E7%A4%BE-%E6%98%86%E6%9B%B2%E5%85%AD%E4%BA%BA%E7%BB%84/"/>
     
   </entry>
   
